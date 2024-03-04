@@ -1,5 +1,4 @@
-## sjtu_sports_JLW
-上海交大运动场馆捡漏王  
+# sjtu_sports_JLW 上海交大运动场馆捡漏王 
 需要：  
 Selenium  （驱动Chrome Driver）  
 Chrome Browser (最新版本即可)  

@@ -1,4 +1,4 @@
-![image](https://github.com/ghost-in-a-shell/sjtu_sports_JLW/assets/61978045/7b85701c-12d2-4deb-9120-c229844803b8)# sjtu_sports_JLW
+## sjtu_sports_JLW
 上海交大运动场馆捡漏王
 需要：
 Selenium  （驱动Chrome Driver）
@@ -9,6 +9,7 @@ pycaw (用于系统声音调节)
 
 个性化设置与登录：
 ![image](https://github.com/ghost-in-a-shell/sjtu_sports_JLW/assets/61978045/6586a7ef-16a2-4044-94e8-30c7b72ec37b)
+ 
 jaccount的用户名密码
 系统显示比例
 是否隐藏浏览器（建议设置False）

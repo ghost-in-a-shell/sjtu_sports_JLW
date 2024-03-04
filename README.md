@@ -3,7 +3,7 @@
 需要：  
 Selenium  （驱动Chrome Driver）  
 Chrome Browser (最新版本即可)  
-Chromedriver (https://chromedriver.chromium.org/  要与Chrome版本对应)  
+Chromedriver (https://chromedriver.chromium.org/  要与Chrome版本对应，下载后与py文件放同一个文件夹)  
 pytesseract (用于验证码识别)  
 pycaw (用于系统声音调节)  
 

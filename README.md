@@ -14,3 +14,15 @@ jaccount的用户名密码
 要抢的运动（目前只支持羽毛球气膜馆）  
 几天后 (支持0-7)  
 开始结束时间 （目标时间段）  
+
+## 如何适配更多运动和更多场馆：  
+![image](https://github.com/ghost-in-a-shell/sjtu_sports_JLW/assets/61978045/dcf1d235-d92c-483f-bddf-d1dff97d543a)  
+更改此处的url为目标场馆网址，例如霍英东：    
+![image](https://github.com/ghost-in-a-shell/sjtu_sports_JLW/assets/61978045/b390e574-bcea-48c9-8ea1-bb644b524efc)  
+
+
+  运动种类，更改此处的src：  
+  ![image](https://github.com/ghost-in-a-shell/sjtu_sports_JLW/assets/61978045/a1618c52-d348-4779-bdf0-f89ddb2bd5f3)  
+  获取src方式，f12查看网页html，找到对应的蓝色图片的src替换代码中的src，也可以用灰色图片的src替换同时前面的"=="换为"!="：  
+  ![image](https://github.com/ghost-in-a-shell/sjtu_sports_JLW/assets/61978045/f853efd1-d73b-42e2-9d37-65b2e09f9503)
+

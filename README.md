@@ -1,6 +1,6 @@
 # sjtu_sports_JLW 上海交大运动场馆捡漏王 
 ## 当前战果数量：  
-![image](https://github.com/ghost-in-a-shell/sjtu_sports_JLW/assets/61978045/a0acc074-f057-4891-9945-a61deca0b41e)
+![image](https://github.com/ghost-in-a-shell/sjtu_sports_JLW/assets/61978045/a0acc074-f057-4891-9945-a61deca0b41e){:height="20%" width="20%"}
 2024/03/09 19:00-20:00 霍英东羽毛球  
 ## 运行工具需要：  
 Selenium  （驱动Chrome Driver）  

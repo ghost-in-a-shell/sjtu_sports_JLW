@@ -1,5 +1,5 @@
 # sjtu_sports_JLW 上海交大运动场馆捡漏王 
-## 当前战果数量：  
+## 当前战果数量（开发者本人）：  
 <img src="https://github.com/ghost-in-a-shell/sjtu_sports_JLW/assets/61978045/a0acc074-f057-4891-9945-a61deca0b41e"  align="middle" width = "150" height = "150"/>  
 2024/03/09 19:00-20:00 霍英东羽毛球  
   
